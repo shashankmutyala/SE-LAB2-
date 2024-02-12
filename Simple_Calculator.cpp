@@ -32,6 +32,6 @@ int main() {
             std::cerr << "Error: Invalid operation." << std::endl;
             return 1; 
     }
-    std::cout << "Result: " << result << std::endl;
+    std::cout << "Result: " << result << std::endl; // Results are shown
     return 0;
 }
