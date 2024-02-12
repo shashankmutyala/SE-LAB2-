@@ -5,9 +5,9 @@ int main() {
     // Get user input for operation and two numbers
     std::cout << "Enter an operation (+, -, *, /): ";
     std::cin >> operation;
-    std::cout << "Enter first number: ";
+    std::cout << "Enter 1st number: ";
     std::cin >> num1;
-    std::cout << "Enter second number: ";
+    std::cout << "Enter 2nd number: ";
     std::cin >> num2;
     // Perform the selected operation
     switch (operation) {
